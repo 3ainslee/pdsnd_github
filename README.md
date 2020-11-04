@@ -12,11 +12,14 @@ This project answers 3 questions:
 
 When you look at the file, you can see the different code used to answer each of the questions.
 
+This code can also be changed to look into the other cities
+
 ### Files used
 The files used are
 new_york_city.csv
 washington.csv
 chicago.csv
+
 
 The there files are in the .gitignore files
 
