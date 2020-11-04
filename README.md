@@ -19,7 +19,7 @@ The files used are
 new_york_city.csv
 washington.csv
 chicago.csv
-
+I was more curious with New York City than any other city.
 
 The there files are in the .gitignore files
 
